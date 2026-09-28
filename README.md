@@ -6,9 +6,12 @@
 
 💻 Computer Science & Technology · 🤖 AI · 🌌 Anime · 🏃 Running
 
+<br>
+
 <a href="https://endlessliu.github.io/">
   <img src="https://img.shields.io/badge/Blog-EndlessLiu-blue?style=flat-square&logo=bloglovin" />
 </a>
+&nbsp;
 <a href="https://github.com/EndlessLiu">
   <img src="https://img.shields.io/badge/GitHub-EndlessLiu-181717?style=flat-square&logo=github" />
 </a>
@@ -52,7 +55,7 @@ Always moving forward.
 
 <td width="35%" align="center" valign="middle">
 
-<img src="./assets/anime-main.png" width="240">
+<img src="./assets/222.jpg" width="240">
 
 <br><br>
 
@@ -76,11 +79,11 @@ Always moving forward.
 
 <p align="center">
 
-<img src="./assets/anime-02.png" width="220">
+<img src="./assets/212.jpg" width="220">
 
 &nbsp;&nbsp;&nbsp;
 
-<img src="./assets/anime-03.png" width="220">
+<img src="./assets/216.jpg" width="220">
 
 </p>
 
