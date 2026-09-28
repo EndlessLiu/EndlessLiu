@@ -22,7 +22,8 @@
 
 <table>
 <tr>
-<td width="65%" valign="top">
+
+<td width="62%" valign="top">
 
 ## 🖥️ Who Am I?
 
@@ -53,15 +54,22 @@ Always moving forward.
 
 </td>
 
-<td width="35%" align="center" valign="middle">
+<td width="38%" align="center" valign="middle">
 
-<img src="./222.jpg" width="240">
+<img src="./222.jpg" width="250">
 
 <br><br>
 
-<b>🌌 Code · Life · Anime</b>
+### 🌌 Code · Life · Anime
+
+<p>
+Building things I like.<br>
+Learning things I need.<br>
+Exploring things I love.
+</p>
 
 </td>
+
 </tr>
 </table>
 
@@ -71,12 +79,23 @@ Always moving forward.
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=EndlessLiu&show_icons=true&hide_border=true&theme=transparent"
-    width="48%"
+    src="https://github-readme-stats.vercel.app/api?username=EndlessLiu&show_icons=true&theme=transparent&hide_border=true"
+    width="49%"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=EndlessLiu&layout=compact&hide_border=true&theme=transparent"
-    width="48%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=EndlessLiu&layout=compact&theme=transparent&hide_border=true"
+    width="49%"
+  />
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=EndlessLiu&theme=darkhub&column=7&row=2&margin-w=10&margin-h=10&no-bg=true&no-frame=true"
+    width="100%"
   />
 </p>
 
@@ -85,7 +104,15 @@ Always moving forward.
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,nodejs,git,github,vscode,linux&perline=5" />
+  <img
+    src="https://skillicons.dev/icons?i=cpp,python,html,css,js,nodejs,git,github,vscode,linux&perline=5"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=markdown,hexo,vercel,docker&perline=4"
+  />
 </p>
 
 ---
@@ -96,7 +123,7 @@ Always moving forward.
 
 <img src="./212.jpg" width="220">
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <img src="./216.jpg" width="220">
 
@@ -104,8 +131,46 @@ Always moving forward.
 
 ---
 
+## 🎯 Current Goals
+
+<table>
+<tr>
+
+<td width="33%" align="center">
+
+### 💻 CS
+
+408 Postgraduate Exam
+
+</td>
+
+<td width="33%" align="center">
+
+### 🤖 AI
+
+AI Agent & New Tech
+
+</td>
+
+<td width="33%" align="center">
+
+### 🌐 Web
+
+Build & Improve My Blog
+
+</td>
+
+</tr>
+</table>
+
+---
+
 <div align="center">
 
 ### ✨ Keep Building · Keep Learning · Keep Moving
+
+<br>
+
+`Code` · `Life` · `Anime` · `Running`
 
 </div>
