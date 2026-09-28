@@ -9,11 +9,11 @@
 <br>
 
 <a href="https://endlessliu.github.io/">
-  <img src="https://img.shields.io/badge/Blog-EndlessLiu-blue?style=flat-square&logo=bloglovin" />
+  <img src="https://img.shields.io/badge/Blog-EndlessLiu-2563EB?style=flat-square&logo=bloglovin&logoColor=white" />
 </a>
-&nbsp;
+
 <a href="https://github.com/EndlessLiu">
-  <img src="https://img.shields.io/badge/GitHub-EndlessLiu-181717?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/GitHub-EndlessLiu-111827?style=flat-square&logo=github&logoColor=white" />
 </a>
 
 </div>
@@ -60,13 +60,15 @@ Always moving forward.
 
 <br><br>
 
-### 🌌 Code · Life · Anime
+<b>🌌 Code · Life · Anime</b>
 
-<p>
+<br><br>
+
+<sub>
 Building things I like.<br>
 Learning things I need.<br>
 Exploring things I love.
-</p>
+</sub>
 
 </td>
 
@@ -77,26 +79,32 @@ Exploring things I love.
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=EndlessLiu&show_icons=true&theme=transparent&hide_border=true"
-    width="49%"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=EndlessLiu&layout=compact&theme=transparent&hide_border=true"
-    width="49%"
-  />
-</p>
+<table>
+<tr>
+
+<td width="50%">
+
+<img src="./profile/stats.svg" width="100%">
+
+</td>
+
+<td width="50%">
+
+<img src="./profile/top-langs.svg" width="100%">
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=EndlessLiu&theme=darkhub&column=7&row=2&margin-w=10&margin-h=10&no-bg=true&no-frame=true"
-    width="100%"
-  />
+
+<img src="./profile/trophy.svg" width="100%">
+
 </p>
 
 ---
@@ -104,16 +112,50 @@ Exploring things I love.
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=cpp,python,html,css,js,nodejs,git,github,vscode,linux&perline=5"
-  />
+
+<img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,nodejs,git,github,vscode,linux&perline=5">
+
 </p>
 
 <p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=markdown,hexo,vercel,docker&perline=4"
-  />
+
+<img src="https://skillicons.dev/icons?i=markdown,hexo,vercel,docker&perline=4">
+
 </p>
+
+---
+
+## 🎯 Current Goals
+
+<table>
+<tr>
+
+<td width="33%" align="center">
+
+### 💻 Computer Science
+
+408 Postgraduate Exam
+
+</td>
+
+<td width="33%" align="center">
+
+### 🤖 Artificial Intelligence
+
+AI Agent & New Tech
+
+</td>
+
+<td width="33%" align="center">
+
+### 🌐 Web Development
+
+Build & Improve My Blog
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -128,40 +170,6 @@ Exploring things I love.
 <img src="./216.jpg" width="220">
 
 </p>
-
----
-
-## 🎯 Current Goals
-
-<table>
-<tr>
-
-<td width="33%" align="center">
-
-### 💻 CS
-
-408 Postgraduate Exam
-
-</td>
-
-<td width="33%" align="center">
-
-### 🤖 AI
-
-AI Agent & New Tech
-
-</td>
-
-<td width="33%" align="center">
-
-### 🌐 Web
-
-Build & Improve My Blog
-
-</td>
-
-</tr>
-</table>
 
 ---
 
