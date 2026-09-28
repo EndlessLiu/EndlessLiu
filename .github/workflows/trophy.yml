@@ -1,0 +1,36 @@
+name: Generate GitHub Trophy
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  generate-trophy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate trophy
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        with:
+          username: EndlessLiu
+          output_path: trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Move trophy
+        run: |
+          mkdir -p assets
+          mv trophy.svg assets/trophy.svg
+
+      - name: Commit trophy
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add assets/trophy.svg
+
+          git commit -m "Update GitHub trophy" || exit 0
+          git push
