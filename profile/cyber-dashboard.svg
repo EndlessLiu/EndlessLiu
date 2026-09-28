@@ -1,89 +1,107 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="1400" height="520" viewBox="0 0 1400 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1400" height="600" viewBox="0 0 1400 600" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1400" y2="520" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#020817"/>
-      <stop offset="0.55" stop-color="#071426"/>
-      <stop offset="1" stop-color="#030712"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="1400" y2="600" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#01050B"/>
+      <stop offset="0.42" stop-color="#03101A"/>
+      <stop offset="0.72" stop-color="#020814"/>
+      <stop offset="1" stop-color="#01040A"/>
     </linearGradient>
-    <linearGradient id="cyanLine" x1="0" y1="0" x2="1400" y2="0" gradientUnits="userSpaceOnUse">
+    <linearGradient id="edge" x1="0" y1="0" x2="1400" y2="600" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE" stop-opacity=".92"/>
+      <stop offset=".45" stop-color="#3B82F6" stop-opacity=".58"/>
+      <stop offset="1" stop-color="#8B5CF6" stop-opacity=".72"/>
+    </linearGradient>
+    <linearGradient id="line" x1="120" y1="0" x2="1280" y2="0" gradientUnits="userSpaceOnUse">
       <stop stop-color="#22D3EE" stop-opacity="0"/>
-      <stop offset="0.18" stop-color="#22D3EE"/>
-      <stop offset="0.52" stop-color="#60A5FA"/>
-      <stop offset="0.82" stop-color="#A78BFA"/>
-      <stop offset="1" stop-color="#A78BFA" stop-opacity="0"/>
+      <stop offset=".2" stop-color="#22D3EE"/>
+      <stop offset=".55" stop-color="#60A5FA"/>
+      <stop offset=".86" stop-color="#818CF8"/>
+      <stop offset="1" stop-color="#818CF8" stop-opacity="0"/>
     </linearGradient>
-    <linearGradient id="card" x1="120" y1="90" x2="1260" y2="430" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#071426" stop-opacity="0.96"/>
-      <stop offset="1" stop-color="#030A15" stop-opacity="0.98"/>
-    </linearGradient>
-    <filter id="glowCyan" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="7" result="blur"/>
-      <feColorMatrix in="blur" type="matrix" values="0 0 0 0 0.13  0 0 0 0 0.83  0 0 0 0 0.93  0 0 0 0.75 0"/>
-      <feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-    <filter id="glowBlue" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="8" result="blur"/>
-      <feColorMatrix in="blur" type="matrix" values="0 0 0 0 0.18  0 0 0 0 0.48  0 0 0 0 1  0 0 0 0.62 0"/>
-      <feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
-      <path d="M32 0H0V32" stroke="#38BDF8" stroke-opacity="0.09" stroke-width="1"/>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" stroke="#38BDF8" stroke-opacity=".075"/>
     </pattern>
-    <pattern id="microgrid" width="8" height="8" patternUnits="userSpaceOnUse">
-      <circle cx="1" cy="1" r="0.8" fill="#67E8F9" fill-opacity="0.18"/>
+    <pattern id="dots" width="7" height="7" patternUnits="userSpaceOnUse">
+      <circle cx="1.2" cy="1.2" r=".7" fill="#67E8F9" fill-opacity=".16"/>
     </pattern>
+    <filter id="cyanGlow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="7" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
   </defs>
 
-  <rect width="1400" height="520" rx="28" fill="url(#bg)"/>
-  <rect x="1.5" y="1.5" width="1397" height="517" rx="26.5" stroke="#0EA5E9" stroke-opacity="0.48" stroke-width="3"/>
-  <rect width="1400" height="520" rx="28" fill="url(#grid)"/>
-  <rect width="1400" height="520" rx="28" fill="url(#microgrid)" opacity="0.45"/>
+  <rect width="1400" height="600" rx="30" fill="url(#bg)"/>
+  <rect width="1400" height="600" rx="30" fill="url(#grid)"/>
+  <rect width="1400" height="600" rx="30" fill="url(#dots)" opacity=".28"/>
+  <rect x="2" y="2" width="1396" height="596" rx="28" stroke="url(#edge)" stroke-width="3"/>
 
-  <path d="M22 62H235M1165 62H1378M22 456H235M1165 456H1378" stroke="#22D3EE" stroke-opacity="0.72" stroke-width="2"/>
-  <path d="M260 62H1140" stroke="url(#cyanLine)" stroke-width="3" filter="url(#glowCyan)"/>
-  <path d="M260 456H1140" stroke="url(#cyanLine)" stroke-width="2"/>
+  <ellipse cx="260" cy="120" rx="170" ry="80" fill="#0EA5E9" fill-opacity=".07" filter="url(#softGlow)"/>
+  <ellipse cx="1170" cy="465" rx="200" ry="100" fill="#6366F1" fill-opacity=".06" filter="url(#softGlow)"/>
 
-  <rect x="38" y="26" width="184" height="27" rx="7" fill="#04101D" stroke="#155E75"/>
-  <circle cx="55" cy="39.5" r="5" fill="#22D3EE" filter="url(#glowCyan)"/>
-  <text x="69" y="44" fill="#94A3B8" font-family="monospace" font-size="13" letter-spacing="1.3">ENDLESSLIU // PROFILE</text>
+  <path d="M20 66H248M1152 66H1380M20 532H248M1152 532H1380" stroke="#22D3EE" stroke-width="2" stroke-opacity=".62"/>
+  <path d="M280 66H1120" stroke="url(#line)" stroke-width="3" filter="url(#cyanGlow)"/>
+  <path d="M280 532H1120" stroke="url(#line)" stroke-width="2"/>
 
-  <rect x="1190" y="25" width="171" height="28" rx="8" fill="#04101D" stroke="#1D4ED8"/>
-  <circle cx="1208" cy="39" r="4.5" fill="#34D399"/>
-  <text x="1220" y="44" fill="#A7F3D0" font-family="monospace" font-size="12" letter-spacing="1">SYSTEM ONLINE</text>
+  <rect x="32" y="25" width="220" height="30" rx="8" fill="#03111C" stroke="#155E75"/>
+  <circle cx="50" cy="40" r="5" fill="#22D3EE" filter="url(#cyanGlow)"/>
+  <text x="65" y="45" font-family="monospace" font-size="13" letter-spacing="1.2" fill="#A5F3FC">ENDLESSLIU // PROFILE</text>
 
-  <rect x="36" y="84" width="932" height="332" rx="22" fill="url(#card)" stroke="#0EA5E9" stroke-opacity="0.5" stroke-width="2"/>
-  <rect x="988" y="84" width="376" height="332" rx="22" fill="#06101E" stroke="#38BDF8" stroke-opacity="0.48" stroke-width="2"/>
+  <rect x="1170" y="25" width="198" height="30" rx="8" fill="#03111C" stroke="#1D4ED8"/>
+  <circle cx="1188" cy="40" r="4.5" fill="#34D399"/>
+  <text x="1202" y="45" font-family="monospace" font-size="12" letter-spacing="1" fill="#A7F3D0">SYSTEM // ONLINE</text>
 
-  <path d="M58 116H328" stroke="#38BDF8" stroke-width="2" opacity="0.65"/>
-  <text x="58" y="151" fill="#67E8F9" font-family="monospace" font-size="17" letter-spacing="1.8">&gt; HELLO, WORLD_</text>
-  <text x="58" y="204" fill="#E2E8F0" font-family="sans-serif" font-size="42" font-weight="700">EndlessLiu</text>
-  <text x="61" y="234" fill="#94A3B8" font-family="monospace" font-size="15">Computer Science · AI Agent Explorer</text>
+  <!-- main card -->
+  <rect x="32" y="88" width="888" height="390" rx="24" fill="#020B15" fill-opacity=".97" stroke="#0EA5E9" stroke-opacity=".52" stroke-width="2"/>
+  <path d="M60 122H330" stroke="#38BDF8" stroke-width="2"/>
+  <text x="60" y="158" font-family="monospace" font-size="17" letter-spacing="2" fill="#67E8F9">BOOTING PROFILE...</text>
+  <text x="60" y="214" font-family="sans-serif" font-size="46" font-weight="700" fill="#F8FAFC">EndlessLiu</text>
+  <text x="63" y="245" font-family="monospace" font-size="15" fill="#94A3B8">Computer Science · AI Agent Explorer</text>
 
-  <rect x="58" y="260" width="820" height="1" fill="#164E63"/>
-  <text x="58" y="291" fill="#64748B" font-family="monospace" font-size="13">CURRENT_FOCUS</text>
-  <text x="58" y="318" fill="#BAE6FD" font-family="monospace" font-size="16">408  /  AI AGENT  /  WEB DEV  /  OPEN SOURCE</text>
+  <rect x="60" y="270" width="830" height="1" fill="#0F3B50"/>
+  <text x="60" y="305" font-family="monospace" font-size="12" letter-spacing="1.3" fill="#64748B">CURRENT_FOCUS</text>
 
-  <text x="58" y="356" fill="#64748B" font-family="monospace" font-size="13">MINDSET</text>
-  <text x="58" y="384" fill="#C4B5FD" font-family="monospace" font-size="16">LEARN  →  BUILD  →  ITERATE  →  REPEAT</text>
+  <rect x="60" y="322" width="175" height="36" rx="8" fill="#06202B" stroke="#155E75"/>
+  <text x="78" y="346" font-family="monospace" font-size="13" fill="#A5F3FC">408 STUDY</text>
 
-  <rect x="1007" y="103" width="338" height="42" rx="11" fill="#081A2C" stroke="#155E75"/>
-  <text x="1023" y="129" fill="#67E8F9" font-family="monospace" font-size="13">PROFILE NODE / 001</text>
-  <text x="1308" y="129" fill="#38BDF8" font-family="monospace" font-size="12">●</text>
+  <rect x="248" y="322" width="175" height="36" rx="8" fill="#061831" stroke="#1D4ED8"/>
+  <text x="267" y="346" font-family="monospace" font-size="13" fill="#BFDBFE">AI AGENT</text>
 
-  <circle cx="1176" cy="235" r="76" fill="#020817" stroke="#22D3EE" stroke-width="2.5" filter="url(#glowCyan)"/>
-  <circle cx="1176" cy="235" r="60" fill="#071A2B" stroke="#3B82F6" stroke-opacity="0.5"/>
-  <path d="M1139 265C1152 250 1200 250 1213 265" stroke="#67E8F9" stroke-width="5" stroke-linecap="round"/>
-  <circle cx="1152" cy="221" r="7" fill="#67E8F9"/>
-  <circle cx="1200" cy="221" r="7" fill="#67E8F9"/>
-  <path d="M1156 245C1169 255 1183 255 1196 245" stroke="#A5F3FC" stroke-width="4" stroke-linecap="round"/>
-  <path d="M1120 165L1232 165M1120 305L1232 305M1106 179L1106 291M1246 179L1246 291" stroke="#1D4ED8" stroke-opacity="0.65" stroke-width="1.5"/>
+  <rect x="436" y="322" width="175" height="36" rx="8" fill="#07132E" stroke="#4338CA"/>
+  <text x="454" y="346" font-family="monospace" font-size="13" fill="#C7D2FE">WEB DEV</text>
 
-  <text x="1030" y="347" fill="#94A3B8" font-family="monospace" font-size="12">VIBE</text>
-  <text x="1080" y="347" fill="#E0E7FF" font-family="monospace" font-size="13">ANIME × TECH × RUNNING</text>
-  <text x="1030" y="375" fill="#94A3B8" font-family="monospace" font-size="12">MODE</text>
-  <text x="1080" y="375" fill="#67E8F9" font-family="monospace" font-size="13">ALWAYS BUILDING</text>
+  <rect x="624" y="322" width="266" height="36" rx="8" fill="#06101D" stroke="#334155"/>
+  <text x="642" y="346" font-family="monospace" font-size="13" fill="#CBD5E1">OPEN SOURCE</text>
 
-  <text x="36" y="486" fill="#475569" font-family="monospace" font-size="11" letter-spacing="1.2">CODE / LIFE / ANIME / RUNNING</text>
-  <text x="1091" y="486" fill="#475569" font-family="monospace" font-size="11">ENDLESSLIU.EXE</text>
+  <text x="60" y="394" font-family="monospace" font-size="12" letter-spacing="1.3" fill="#64748B">MINDSET</text>
+  <text x="60" y="424" font-family="monospace" font-size="17" fill="#C4B5FD">LEARN  →  BUILD  →  ITERATE  →  REPEAT</text>
+  <text x="60" y="453" font-family="monospace" font-size="12" fill="#475569">Code · Life · Anime · Running</text>
+
+  <!-- personal node -->
+  <rect x="940" y="88" width="428" height="390" rx="24" fill="#020913" fill-opacity=".98" stroke="#38BDF8" stroke-opacity=".5" stroke-width="2"/>
+  <rect x="960" y="108" width="388" height="42" rx="11" fill="#041624" stroke="#155E75"/>
+  <text x="978" y="135" font-family="monospace" font-size="13" fill="#67E8F9">PERSONAL NODE / 001</text>
+  <circle cx="1328" cy="129" r="5" fill="#22D3EE" filter="url(#cyanGlow)"/>
+
+  <circle cx="1154" cy="268" r="94" fill="#01050B" stroke="#22D3EE" stroke-width="2.5" filter="url(#cyanGlow)"/>
+  <circle cx="1154" cy="268" r="76" fill="#061522" stroke="#2563EB" stroke-opacity=".6" stroke-width="2"/>
+  <circle cx="1127" cy="255" r="9" fill="#67E8F9"/>
+  <circle cx="1181" cy="255" r="9" fill="#67E8F9"/>
+  <path d="M1118 300C1136 283 1172 283 1190 300" stroke="#A5F3FC" stroke-width="5" stroke-linecap="round"/>
+  <path d="M1117 220C1130 205 1177 205 1191 220" stroke="#38BDF8" stroke-width="4" stroke-linecap="round"/>
+  <path d="M1088 191V345M1220 191V345" stroke="#1D4ED8" stroke-opacity=".4"/>
+  <path d="M1074 208H1234M1074 328H1234" stroke="#22D3EE" stroke-opacity=".2"/>
+
+  <text x="980" y="380" font-family="monospace" font-size="11" letter-spacing="1.2" fill="#64748B">VIBE</text>
+  <text x="1032" y="380" font-family="monospace" font-size="13" fill="#E0E7FF">ANIME × TECH × RUNNING</text>
+  <text x="980" y="410" font-family="monospace" font-size="11" letter-spacing="1.2" fill="#64748B">MODE</text>
+  <text x="1032" y="410" font-family="monospace" font-size="13" fill="#67E8F9">ALWAYS BUILDING</text>
+  <text x="980" y="440" font-family="monospace" font-size="11" letter-spacing="1.2" fill="#64748B">LINK</text>
+  <text x="1032" y="440" font-family="monospace" font-size="13" fill="#BAE6FD">endlessliu.github.io</text>
+
+  <text x="35" y="565" font-family="monospace" font-size="11" letter-spacing="1.3" fill="#475569">CODE / LIFE / ANIME / RUNNING</text>
+  <text x="1120" y="565" font-family="monospace" font-size="11" fill="#475569">ENDLESSLIU.EXE</text>
 </svg>
