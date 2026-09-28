@@ -139,6 +139,20 @@ EXPLORE
 
 ---
 
+## `// CONTRIBUTION ACTIVITY`
+
+<p align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile/github-snake.svg">
+  <img alt="GitHub Contribution Snake" src="./profile/github-snake.svg" width="100%">
+</picture>
+
+</p>
+
+---
+
 ## `// ACHIEVEMENTS`
 
 <p align="center">
