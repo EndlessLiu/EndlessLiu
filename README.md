@@ -55,7 +55,7 @@ Always moving forward.
 
 <td width="35%" align="center" valign="middle">
 
-<img src="./assets/222.jpg" width="240">
+<img src="./222.jpg" width="240">
 
 <br><br>
 
@@ -79,11 +79,11 @@ Always moving forward.
 
 <p align="center">
 
-<img src="./assets/212.jpg" width="220">
+<img src="./212.jpg" width="220">
 
 &nbsp;&nbsp;&nbsp;
 
-<img src="./assets/216.jpg" width="220">
+<img src="./216.jpg" width="220">
 
 </p>
 
