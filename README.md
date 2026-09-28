@@ -1,206 +1,177 @@
-<!-- EndlessLiu · GitHub Profile -->
+<!-- ENDLESSLIU / DIGITAL PLAYGROUND -->
 
 <div align="center">
 
-<img src="./profile/hero-v2.svg" width="100%" alt="EndlessLiu personal developer dashboard">
-
-<br>
-
-<a href="https://endlessliu.github.io/">
-  <img src="https://img.shields.io/badge/%E2%97%86%20BLOG-07111E?style=for-the-badge&logo=hexo&logoColor=67E8F9&labelColor=020711" alt="Blog">
-</a>
-<a href="https://github.com/EndlessLiu">
-  <img src="https://img.shields.io/badge/%E2%97%86%20GITHUB-07111E?style=for-the-badge&logo=github&logoColor=F8FAFC&labelColor=020711" alt="GitHub">
-</a>
-<a href="https://github.com/EndlessLiu/EndlessLiu.github.io">
-  <img src="https://img.shields.io/badge/%E2%97%86%20BLOG%20SOURCE-07111E?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=020711" alt="Blog Source">
-</a>
+<img src="./profile/aurora.svg" width="100%" alt="EndlessLiu digital playground">
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=EndlessLiu&style=for-the-badge&color=67E8F9&labelColor=020711&label=VISITORS" alt="Profile views">
-
-</div>
-
----
-
-## <code>01 / IDENTITY</code>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Hey, I'm EndlessLiu 👋
-
-I'm a computer science student who enjoys turning curiosity into something visible.
-
-My current path is a mix of:
-
-<pre>CS FUNDAMENTALS
-AI AGENTS
-WEB DEVELOPMENT
-PERSONAL BUILDING</pre>
-
-I like projects that have both a <strong>working core</strong> and a <strong>distinct personality</strong>.
-
-</td>
-<td width="50%" valign="top">
-
-### Current Orbit
-
-| Area | Status |
-|:--|:--|
-| 🎓 CS / 408 | STUDYING |
-| 🤖 AI / Agent | EXPLORING |
-| 🌐 Web / UI | BUILDING |
-| 📝 Blog | SHIPPING |
-| 🏃 Running | MOVING |
+<a href="https://endlessliu.github.io/">
+<img src="https://img.shields.io/badge/ENTER%20MY%20BLOG-0B1220?style=for-the-badge&logo=googlechrome&logoColor=67E8F9&labelColor=020711" alt="Blog">
+</a>
+&nbsp;
+<a href="https://github.com/EndlessLiu">
+<img src="https://img.shields.io/badge/FOLLOW%20THE%20BUILD-0B1220?style=for-the-badge&logo=github&logoColor=F8FAFC&labelColor=020711" alt="GitHub">
+</a>
+&nbsp;
+<a href="https://github.com/EndlessLiu/EndlessLiu.github.io">
+<img src="https://img.shields.io/badge/BLOG%20SOURCE-0B1220?style=for-the-badge&logo=github&logoColor=60A5FA&labelColor=020711" alt="Blog source">
+</a>
 
 <br>
 
-> <strong>Learn something. Build something. Leave a trace.</strong>
+<img src="https://komarev.com/ghpvc/?username=EndlessLiu&style=flat-square&color=67E8F9&label=PROFILE+VISITORS&labelColor=020711" alt="Profile visitors">
 
-</td>
-</tr>
-</table>
-
----
-
-## <code>02 / SELECTED WORK</code>
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### 🌌 Personal Blog
-
-<strong>EndlessLiu · Code & Life</strong>
-
-A Hexo + GitHub Pages site where code, notes, anime, experiments and everyday life live together.
-
-<a href="https://endlessliu.github.io/">
-<img src="https://img.shields.io/badge/OPEN%20BLOG-22D3EE?style=for-the-badge&labelColor=020711&logo=googlechrome&logoColor=020711" alt="Open blog">
-</a>
-
-</td>
-
-<td width="33%" valign="top">
-
-### ⚡ Blog Lab
-
-<strong>EndlessLiu.github.io</strong>
-
-Theme engineering, animated UI, visual experiments, articles and the little details that make a personal site feel alive.
-
-<a href="https://github.com/EndlessLiu/EndlessLiu.github.io">
-<img src="https://img.shields.io/badge/VIEW%20SOURCE-60A5FA?style=for-the-badge&labelColor=020711&logo=github&logoColor=020711" alt="View source">
-</a>
-
-</td>
-
-<td width="33%" valign="top">
-
-### 🧪 Next Experiments
-
-<strong>AI Agent Playground</strong>
-
-Exploring agent workflows, developer tools and practical automation — one experiment at a time.
-
-<pre>IDEA
- ↓
-PROTOTYPE
- ↓
-BREAK IT
- ↓
-SHIP IT</pre>
-
-</td>
-</tr>
-</table>
-
----
-
-## <code>03 / TOOLBOX</code>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,nodejs,git,github,vscode,linux&perline=5" alt="Core tools">
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=markdown,hexo,docker,vercel&perline=4" alt="Web and tooling">
-</p>
-
-<div align="center">
-<code>CODE</code> · <code>WEB</code> · <code>AI</code> · <code>GIT</code> · <code>HEXO</code> · <code>LINUX</code>
 </div>
 
 ---
 
-## <code>04 / TELEMETRY</code>
+# ◈ THE PERSON BEHIND THE SCREEN
 
 <table>
 <tr>
-<td width="50%">
-<img src="./profile/stats.svg" width="100%" alt="GitHub stats">
+<td width="58%" valign="top">
+
+### Hi, I'm <strong>EndlessLiu</strong>.
+
+A computer science student building a personal corner of the internet while learning how the systems behind it actually work.
+
+I enjoy the overlap between <strong>code, design, AI and real life</strong>.
+
+<pre>
+CURRENTLY
+────────────────────────────────────────────
+01  studying CS / 408
+02  exploring AI agents
+03  engineering my personal blog
+04  learning by building in public
+05  keeping myself moving
+────────────────────────────────────────────
+</pre>
+
+I don't want every project to look like a tutorial demo.
+
+I want it to feel like <strong>mine</strong>.
+
 </td>
-<td width="50%">
-<img src="./profile/top-langs.svg" width="100%" alt="Top languages">
+<td width="42%" valign="top" align="center">
+
+<img src="./212.jpg" width="210" alt="EndlessLiu avatar">
+
+<br><br>
+
+<code>ENDLESS MODE // ON</code>
+
+<br><br>
+
+<strong>CURIOUS</strong><br>
+<sub>always asking why</sub>
+
+<br><br>
+
+<strong>BUILDING</strong><br>
+<sub>always making something</sub>
+
+<br><br>
+
+<strong>MOVING</strong><br>
+<sub>code, life, running</sub>
+
 </td>
 </tr>
 </table>
 
 ---
 
-## <code>05 / CONTRIBUTION LAB</code>
-
-<p align="center">
-  <img src="./profile/github-snake-dark.svg" width="100%" alt="GitHub contribution snake">
-</p>
-
-<p align="center">
-  <sub>Every green square is a tiny reminder that something was built, learned, fixed or understood.</sub>
-</p>
-
----
-
-## <code>06 / PERSONAL ARCHIVE</code>
+# ◈ MY CURRENT UNIVERSE
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td width="25%" align="center">
 
-### 🖥️
-
-<sub>BUILD</sub>
-
-<strong>WEB & UI</strong>
+### 🎓
+<sub>01 / FOUNDATION</sub>
+<br><strong>CS · 408</strong>
+<br><sub>notes, algorithms, systems</sub>
 
 </td>
-<td align="center" width="25%">
+<td width="25%" align="center">
 
 ### 🤖
-
-<sub>EXPLORE</sub>
-
-<strong>AI AGENTS</strong>
-
-</td>
-<td align="center" width="25%">
-
-### 📚
-
-<sub>DEEPEN</sub>
-
-<strong>CS / 408</strong>
+<sub>02 / FRONTIER</sub>
+<br><strong>AI · AGENTS</strong>
+<br><sub>agents, tools, workflows</sub>
 
 </td>
-<td align="center" width="25%">
+<td width="25%" align="center">
+
+### 🌐
+<sub>03 / PLAYGROUND</sub>
+<br><strong>WEB · UI</strong>
+<br><sub>interfaces, animation, interaction</sub>
+
+</td>
+<td width="25%" align="center">
 
 ### 🏃
+<sub>04 / OFFLINE</sub>
+<br><strong>RUNNING</strong>
+<br><sub>distance, discipline, reset</sub>
 
-<sub>MOVE</sub>
+</td>
+</tr>
+</table>
 
-<strong>RUNNING</strong>
+> <strong>The goal isn't to look busy. The goal is to keep becoming capable.</strong>
+
+---
+
+# ◈ FEATURED: MY DIGITAL HOME
+
+<table>
+<tr>
+<td width="62%" valign="top">
+
+## ENDLESSLIU.GITHUB.IO
+
+My personal website is the place where everything gets more visual.
+
+<strong>Tech:</strong> Hexo · GitHub Pages · JavaScript · CSS
+
+<strong>Theme direction:</strong> dark glass · anime atmosphere · neon HUD · motion UI
+
+<strong>Inside:</strong> articles · photo wall · music · experiments · life notes · personal pages
+
+<br>
+
+<a href="https://endlessliu.github.io/">
+<img src="https://img.shields.io/badge/OPEN%20THE%20SITE-22D3EE?style=for-the-badge&labelColor=020711&logo=googlechrome&logoColor=020711" alt="Open site">
+</a>
+
+</td>
+<td width="38%" valign="top">
+
+### DESIGN PRINCIPLE
+
+<pre>
+information
+      ↓
+structure
+      ↓
+interaction
+      ↓
+emotion
+      ↓
+identity
+</pre>
+
+A website should not only answer:
+
+<strong>"What does this person know?"</strong>
+
+It should also answer:
+
+<strong>"What does this person feel like?"</strong>
 
 </td>
 </tr>
@@ -208,30 +179,208 @@ SHIP IT</pre>
 
 ---
 
-## <code>07 / OPERATING PRINCIPLES</code>
+# ◈ WHAT'S IN THE LAB
 
-<pre>01  Make it work.
-02  Make it clear.
-03  Make it beautiful.
-04  Break it.
-05  Rebuild it better.
-06  Keep moving.</pre>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 01 — AI AGENT LAB
+
+Exploring how AI agents can turn natural-language goals into useful actions, workflows and tools.
+
+<strong>Currently:</strong> experimenting · learning · prototyping
+
+</td>
+<td width="50%" valign="top">
+
+### 02 — PERSONAL UI LAB
+
+Trying strange little ideas until the interface stops feeling like a template.
+
+<strong>Currently:</strong> motion · glass · HUD · micro-interactions
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 03 — KNOWLEDGE BASE
+
+Turning 408 study notes, debugging scars and things I finally understand into reusable documentation.
+
+<strong>Currently:</strong> networking · CS fundamentals · coding notes
+
+</td>
+<td width="50%" valign="top">
+
+### 04 — LIFE LOG
+
+Running, learning, building, getting stuck, trying again.
+
+The offline part of the profile matters too.
+
+</td>
+</tr>
+</table>
+
+---
+
+# ◈ TOOLBOX
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,nodejs,git,github,vscode,linux&perline=5" alt="Core development stack">
+</p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=markdown,hexo,docker,vercel&perline=6" alt="Tools and platforms">
+</p>
+
+<div align="center">
+<code>C++</code>
+<code>Python</code>
+<code>JavaScript</code>
+<code>HTML</code>
+<code>CSS</code>
+<code>Node.js</code>
+<code>Git</code>
+<code>Linux</code>
+<code>Hexo</code>
+</div>
+
+---
+
+# ◈ GITHUB TELEMETRY
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://github-readme-stats.vercel.app/api?username=EndlessLiu&show_icons=true&hide_border=true&bg_color=00000000&title_color=67E8F9&icon_color=60A5FA&text_color=CBD5E1&ring_color=A78BFA" width="100%" alt="GitHub stats">
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EndlessLiu&layout=compact&hide_border=true&bg_color=00000000&title_color=67E8F9&text_color=CBD5E1" width="100%" alt="Top languages">
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+<img src="./profile/github-snake-dark.svg" width="100%" alt="Contribution snake">
+</p>
+
+<p align="center">
+<sub>Contributions are the footprint. Projects are the story.</sub>
+</p>
+
+---
+
+# ◈ THE AESTHETIC SYSTEM
+
+<table>
+<tr>
+<td align="center" width="20%"><strong>DARK</strong><br><sub>deep space</sub></td>
+<td align="center" width="20%"><strong>NEON</strong><br><sub>cyan → blue → violet</sub></td>
+<td align="center" width="20%"><strong>GLASS</strong><br><sub>soft surfaces</sub></td>
+<td align="center" width="20%"><strong>MOTION</strong><br><sub>scan · orbit · pulse</sub></td>
+<td align="center" width="20%"><strong>CHARACTER</strong><br><sub>not another template</sub></td>
+</tr>
+</table>
+
+---
+
+# ◈ A FEW THINGS I BELIEVE
+
+<pre>
+Build ugly first.
+Then make it useful.
+Then make it beautiful.
+
+Read the documentation.
+Still experiment.
+
+Don't wait until you feel ready.
+Make a smaller thing.
+Ship it.
+Learn from it.
+
+Progress is not always loud.
+Sometimes it is just:
+"Today I finally understood this."
+</pre>
+
+---
+
+# ◈ ROADMAP // UNLOCKED
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 01
+<strong>MASTER THE CORE</strong>
+
+Build a stronger CS foundation and stop being afraid of hard concepts.
+
+</td>
+<td width="33%" valign="top">
+
+### 02
+<strong>GO DEEPER INTO AI</strong>
+
+Move from using AI tools to understanding and building agent workflows.
+
+</td>
+<td width="33%" valign="top">
+
+### 03
+<strong>SHIP MORE</strong>
+
+Less collecting ideas.
+
+More small, finished, public things.
+
+</td>
+</tr>
+</table>
+
+---
 
 <div align="center">
 
-### <code>ENDLESSLIU.EXE</code>
+## <code>ENDLESSLIU.EXE</code>
 
-<strong>STATUS</strong>  <code>ONLINE</code><br>
-<strong>MODE</strong>    <code>LEARNING</code><br>
-<strong>MISSION</strong> <code>KEEP BUILDING</code>
+<pre>
+┌───────────────────────────────────────┐
+│ STATUS    : ONLINE                    │
+│ MODE      : BUILDING                  │
+│ ENERGY    : RECHARGING                │
+│ NEXT      : SHIP SOMETHING            │
+└───────────────────────────────────────┘
+</pre>
+
+<strong>KEEP LEARNING · KEEP BUILDING · KEEP MOVING</strong>
 
 <br><br>
 
-<sub>Code · Life · Anime · Running</sub>
+<a href="https://github.com/EndlessLiu">
+<img src="https://img.shields.io/badge/CODE-020711?style=flat-square&logo=github&logoColor=FFFFFF" alt="Code">
+</a>
+<a href="https://endlessliu.github.io/">
+<img src="https://img.shields.io/badge/LIFE-020711?style=flat-square&logo=heart&logoColor=FB7185" alt="Life">
+</a>
+<a href="https://endlessliu.github.io/">
+<img src="https://img.shields.io/badge/ANIME-020711?style=flat-square&logo=probot&logoColor=C084FC" alt="Anime">
+</a>
+<a href="https://endlessliu.github.io/">
+<img src="https://img.shields.io/badge/RUNNING-020711?style=flat-square&logo=strava&logoColor=F97316" alt="Running">
+</a>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/MADE%20WITH-CURIOSITY-020711?style=flat-square&labelColor=020711&color=22D3EE" alt="Made with curiosity">
-<img src="https://img.shields.io/badge/POWERED%20BY-COFFEE-020711?style=flat-square&labelColor=020711&color=C084FC" alt="Powered by coffee">
+<sub>EndlessLiu · personal digital playground · built in public</sub>
 
 </div>
