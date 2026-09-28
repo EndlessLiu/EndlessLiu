@@ -9,12 +9,16 @@
 <br>
 
 <a href="https://endlessliu.github.io/">
-  <img src="https://img.shields.io/badge/Blog-EndlessLiu-2563EB?style=flat-square&logo=bloglovin&logoColor=white" />
+<img src="https://img.shields.io/badge/🌐%20BLOG-EndlessLiu-2563EB?style=for-the-badge&logoColor=white">
 </a>
 
 <a href="https://github.com/EndlessLiu">
-  <img src="https://img.shields.io/badge/GitHub-EndlessLiu-111827?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/💻%20GITHUB-EndlessLiu-111827?style=for-the-badge&logo=github&logoColor=white">
 </a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=EndlessLiu&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS">
 
 </div>
 
@@ -25,50 +29,61 @@
 
 <td width="62%" valign="top">
 
-## 🖥️ Who Am I?
+## 🖥️ Terminal
 
 <pre>
-$ whoami
-
-EndlessLiu
-
-$ current_focus
-
-> Computer Science
-> AI Agent
-> Web Development
-> 408 Postgraduate Exam
-
-$ stack
-
-C++ / Python / Git / GitHub
-HTML / CSS / JavaScript
-Node.js / Hexo / Markdown
-
-$ status
-
-Always learning.
-Always building.
-Always moving forward.
+┌─────────────────────────────────────┐
+│  EndlessLiu@github                  │
+├─────────────────────────────────────┤
+│                                     │
+│  $ whoami                           │
+│                                     │
+│  EndlessLiu                         │
+│                                     │
+│  $ current_focus                    │
+│                                     │
+│  > Computer Science                 │
+│  > AI Agent                         │
+│  > Web Development                  │
+│  > 408 Postgraduate Exam            │
+│                                     │
+│  $ stack                            │
+│                                     │
+│  C++ / Python / Git / GitHub        │
+│  HTML / CSS / JavaScript            │
+│  Node.js / Hexo / Markdown          │
+│                                     │
+│  $ status                           │
+│                                     │
+│  [ ONLINE ]                         │
+│  Always learning.                   │
+│  Always building.                   │
+│  Always moving forward.             │
+│                                     │
+└─────────────────────────────────────┘
 </pre>
 
 </td>
 
 <td width="38%" align="center" valign="middle">
 
-<img src="./222.jpg" width="250">
+<img src="./222.jpg" width="260">
 
 <br><br>
 
-<b>🌌 Code · Life · Anime</b>
+## 🌌 EndlessLiu
 
-<br><br>
+`CODE`
 
-<sub>
-Building things I like.<br>
-Learning things I need.<br>
-Exploring things I love.
-</sub>
+`LIFE`
+
+`ANIME`
+
+<br>
+
+> Building things I like.  
+> Learning things I need.  
+> Exploring things I love.
 
 </td>
 
@@ -82,13 +97,13 @@ Exploring things I love.
 <table>
 <tr>
 
-<td width="50%">
+<td width="50%" align="center">
 
 <img src="./profile/stats.svg" width="100%">
 
 </td>
 
-<td width="50%">
+<td width="50%" align="center">
 
 <img src="./profile/top-langs.svg" width="100%">
 
@@ -142,7 +157,7 @@ Exploring things I love.
 
 ### 🤖 Artificial Intelligence
 
-AI Agent & New Tech
+AI Agent & New Technology
 
 </td>
 
@@ -163,11 +178,11 @@ Build & Improve My Blog
 
 <p align="center">
 
-<img src="./212.jpg" width="220">
+<img src="./212.jpg" width="240">
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 
-<img src="./216.jpg" width="220">
+<img src="./216.jpg" width="240">
 
 </p>
 
@@ -175,7 +190,9 @@ Build & Improve My Blog
 
 <div align="center">
 
-### ✨ Keep Building · Keep Learning · Keep Moving
+## ✨ EndlessLiu
+
+### Keep Building · Keep Learning · Keep Moving
 
 <br>
 
