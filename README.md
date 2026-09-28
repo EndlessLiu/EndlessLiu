@@ -67,6 +67,21 @@ Always moving forward.
 
 ---
 
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=EndlessLiu&show_icons=true&hide_border=true&theme=transparent"
+    width="48%"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=EndlessLiu&layout=compact&hide_border=true&theme=transparent"
+    width="48%"
+  />
+</p>
+
+---
+
 ## 🚀 Tech Stack
 
 <p align="center">
