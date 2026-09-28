@@ -1,16 +1,37 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**EndlessLiu/EndlessLiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm EndlessLiu
 
-Here are some ideas to get you started:
+### A curious coder, always learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Computer Science & Technology · 🤖 AI · 🌌 Anime · 🏃 Running
+
+</div>
+
+---
+
+## 🖥️ Who Am I?
+
+```text
+$ whoami
+
+EndlessLiu
+
+$ current_focus
+
+> Computer Science
+> AI Agent
+> Web Development
+> 408 Postgraduate Exam
+
+$ stack
+
+C++ / Python / Git / GitHub
+HTML / CSS / JavaScript
+Node.js / Hexo / Markdown
+
+$ status
+
+Always learning.
+Always building.
+Always moving forward.
