@@ -1,26 +1,26 @@
 <div align="center">
 
-<img src="./profile/cyber-dashboard.svg" width="100%" alt="EndlessLiu Cyber Profile Dashboard">
+<img src="./profile/cyber-dashboard.svg" width="100%" alt="EndlessLiu Cyber Dashboard">
 
 <br>
 
-<a href="https://endlessliu.github.io/"><img src="https://img.shields.io/badge/MY%20BLOG-0B1220?style=for-the-badge&logo=hexo&logoColor=67E8F9&labelColor=06101E" alt="Blog"></a>
-<a href="https://github.com/EndlessLiu"><img src="https://img.shields.io/badge/GITHUB-0B1220?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=06101E" alt="GitHub"></a>
-<a href="https://github.com/EndlessLiu/EndlessLiu.github.io"><img src="https://img.shields.io/badge/BLOG%20SOURCE-0B1220?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=06101E" alt="Blog Source"></a>
+<a href="https://endlessliu.github.io/"><img src="https://img.shields.io/badge/MY%20BLOG-020913?style=for-the-badge&logo=hexo&logoColor=67E8F9&labelColor=01050B" alt="Blog"></a>
+<a href="https://github.com/EndlessLiu"><img src="https://img.shields.io/badge/GITHUB-020913?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=01050B" alt="GitHub"></a>
+<a href="https://github.com/EndlessLiu/EndlessLiu.github.io"><img src="https://img.shields.io/badge/BLOG%20SOURCE-020913?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=01050B" alt="Blog Source"></a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=EndlessLiu&style=for-the-badge&color=22D3EE&labelColor=06101E&label=PROFILE+VIEWS" alt="Profile Views">
+<img src="https://komarev.com/ghpvc/?username=EndlessLiu&style=for-the-badge&color=22D3EE&labelColor=01050B&label=PROFILE+VIEWS" alt="Profile Views">
 
 </div>
 
 ---
 
+## <code>01 // SYSTEM PROFILE</code>
+
 <table>
 <tr>
-<td width="58%" valign="top">
-
-## <code>01 // SYSTEM PROFILE</code>
+<td width="56%" valign="top">
 
 <pre>
 ┌──────────────────────────────────────────────┐
@@ -35,9 +35,6 @@
 │ > Web Development                            │
 │ > 408 Postgraduate Exam                      │
 │                                              │
-│ $ mindset                                    │
-│ > LEARN → BUILD → ITERATE                    │
-│                                              │
 │ $ status                                     │
 │ > [ ONLINE ]                                 │
 │                                              │
@@ -45,20 +42,17 @@
 </pre>
 
 </td>
+<td width="44%" align="center">
 
-<td width="42%" align="center" valign="middle">
-
-<img src="./212.jpg" width="270" alt="EndlessLiu Anime Profile">
+<img src="./212.jpg" width="260" alt="Anime Profile">
 
 <br><br>
 
-### <code>ENDLESS MODE</code>
+<code>ENDLESS MODE</code>
+
+<br><br>
 
 <code>CODE</code> → <code>LEARN</code> → <code>BUILD</code> → <code>RUN</code>
-
-<br><br>
-
-<em>Building things I like.<br>Learning things I need.<br>Exploring things I love.</em>
 
 </td>
 </tr>
@@ -66,25 +60,12 @@
 
 ---
 
-## <code>02 // GITHUB ANALYTICS</code>
+## <code>02 // GITHUB STATS</code>
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-<p align="center">
-<img src="./profile/stats.svg" width="100%" alt="GitHub Statistics">
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-<p align="center">
-<img src="./profile/top-langs.svg" width="100%" alt="Top Languages">
-</p>
-
-</td>
+<td width="50%"><img src="./profile/stats.svg" width="100%" alt="GitHub Stats"></td>
+<td width="50%"><img src="./profile/top-langs.svg" width="100%" alt="Top Languages"></td>
 </tr>
 </table>
 
@@ -112,51 +93,15 @@
 <img src="./profile/github-snake-dark.svg" width="100%" alt="GitHub Contribution Snake">
 </p>
 
-<p align="center">
-<sub>CONTRIBUTION ACTIVITY · GENERATED AUTOMATICALLY</sub>
-</p>
-
 ---
 
 ## <code>05 // CURRENT MISSIONS</code>
 
 <table>
 <tr>
-<td width="33%" align="center">
-
-### <code>CS / 408</code>
-
-Computer Science fundamentals
-
-<br><br>
-
-<code>STUDYING</code>
-
-</td>
-
-<td width="33%" align="center">
-
-### <code>AI / AGENT</code>
-
-Exploring AI agents and new tools
-
-<br><br>
-
-<code>EXPLORING</code>
-
-</td>
-
-<td width="33%" align="center">
-
-### <code>WEB / BUILD</code>
-
-Improving my personal blog
-
-<br><br>
-
-<code>BUILDING</code>
-
-</td>
+<td align="center" width="33%"><strong>CS / 408</strong><br><sub>Computer Science fundamentals</sub><br><br><code>STUDYING</code></td>
+<td align="center" width="33%"><strong>AI / AGENT</strong><br><sub>AI agents & new tools</sub><br><br><code>EXPLORING</code></td>
+<td align="center" width="33%"><strong>WEB / BUILD</strong><br><sub>Personal blog & UI</sub><br><br><code>BUILDING</code></td>
 </tr>
 </table>
 
@@ -170,29 +115,24 @@ Improving my personal blog
 
 ### 🌐 EndlessLiu Blog
 
-A personal space built with Hexo + GitHub Pages.
+Hexo + GitHub Pages personal site.
 
 <code>Code · Life · Anime · Running</code>
 
 <br><br>
 
-<a href="https://endlessliu.github.io/">
-<img src="https://img.shields.io/badge/OPEN%20BLOG-22D3EE?style=for-the-badge&labelColor=06101E" alt="Open Blog">
-</a>
+<a href="https://endlessliu.github.io/"><img src="https://img.shields.io/badge/OPEN%20BLOG-22D3EE?style=for-the-badge&labelColor=01050B" alt="Open Blog"></a>
 
 </td>
-
 <td width="50%" valign="top">
 
 ### ⚡ Blog Source
 
-The source code behind the blog, including theme customization, components and experiments.
+Theme customization, components, articles and experiments.
 
 <br><br>
 
-<a href="https://github.com/EndlessLiu/EndlessLiu.github.io">
-<img src="https://img.shields.io/badge/VIEW%20SOURCE-38BDF8?style=for-the-badge&labelColor=06101E&logo=github&logoColor=white" alt="View Source">
-</a>
+<a href="https://github.com/EndlessLiu/EndlessLiu.github.io"><img src="https://img.shields.io/badge/VIEW%20SOURCE-38BDF8?style=for-the-badge&labelColor=01050B&logo=github&logoColor=white" alt="View Source"></a>
 
 </td>
 </tr>
@@ -207,19 +147,6 @@ The source code behind the blog, including theme customization, components and e
 &nbsp;&nbsp;
 <img src="./222.jpg" width="43%" alt="Anime Archive 02">
 </p>
-
----
-
-## <code>08 // DAILY LOOP</code>
-
-<table>
-<tr>
-<td align="center">💻<br><strong>LEARN</strong><br><sub>Something new</sub></td>
-<td align="center">🛠️<br><strong>BUILD</strong><br><sub>Something useful</sub></td>
-<td align="center">🏃<br><strong>RUN</strong><br><sub>A little farther</sub></td>
-<td align="center">🌌<br><strong>EXPLORE</strong><br><sub>Something unknown</sub></td>
-</tr>
-</table>
 
 ---
 
