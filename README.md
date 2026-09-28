@@ -1,271 +1,239 @@
 <div align="center">
 
-<img src="./github-banner.png" width="100%">
+<img src="./github-banner.png" width="100%" alt="EndlessLiu GitHub Banner">
 
 <br>
 
-# 👋 Hi, I'm EndlessLiu
+# 👋 Hi, I'm **EndlessLiu**
 
-### A curious coder, always learning.
+### Code · Life · Anime · Running
 
-<p>
-💻 Computer Science
-&nbsp;·&nbsp;
-🤖 AI Agent
-&nbsp;·&nbsp;
-🌌 Anime
-&nbsp;·&nbsp;
-🏃 Running
-</p>
+A Computer Science student who enjoys building things, exploring AI, and keeping life moving.
 
 <br>
 
 <a href="https://endlessliu.github.io/">
-<img src="https://img.shields.io/badge/🌐%20MY%20BLOG-2563EB?style=for-the-badge&labelColor=0B1220">
+  <img src="https://img.shields.io/badge/🌐%20PERSONAL%20BLOG-2563EB?style=for-the-badge&labelColor=0B1220" alt="Personal Blog">
 </a>
-
 <a href="https://github.com/EndlessLiu">
-<img src="https://img.shields.io/badge/💻%20GITHUB-111827?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+<a href="https://github.com/EndlessLiu/EndlessLiu.github.io">
+  <img src="https://img.shields.io/badge/BLOG%20SOURCE-0F172A?style=for-the-badge&logo=hexo&logoColor=white" alt="Blog Source">
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=EndlessLiu&style=for-the-badge&color=2563EB&labelColor=0B1220&label=PROFILE+VIEWS">
+<img src="https://komarev.com/ghpvc/?username=EndlessLiu&style=for-the-badge&color=2563EB&labelColor=0B1220&label=PROFILE+VIEWS" alt="Profile Views">
 
 </div>
 
 ---
 
+## 01 / ABOUT
+
 <table>
 <tr>
+<td width="58%" valign="top">
 
-<td width="63%" valign="top">
+### > whoami
 
-## `>_ SYSTEM PROFILE`
+```text
+NAME      : EndlessLiu
+ROLE      : Computer Science Student
+INTEREST  : AI · Web · Open Source
+VIBE      : Anime × Technology
+MINDSET   : Learn → Build → Iterate
+```
 
-<pre>
-┌─────────────────────────────────────────────┐
-│  EndlessLiu@github                          │
-├─────────────────────────────────────────────┤
-│                                             │
-│  $ whoami                                   │
-│                                             │
-│  EndlessLiu                                 │
-│                                             │
-│  $ current_focus                            │
-│                                             │
-│  > Computer Science                         │
-│  > AI Agent                                 │
-│  > Web Development                          │
-│  > 408 Postgraduate Exam                    │
-│                                             │
-│  $ stack                                    │
-│                                             │
-│  C++ / Python / Git / GitHub                │
-│  HTML / CSS / JavaScript                    │
-│  Node.js / Hexo / Markdown                  │
-│                                             │
-│  $ system_status                            │
-│                                             │
-│  [ ONLINE ]                                 │
-│                                             │
-│  Always learning.                           │
-│  Always building.                           │
-│  Always moving forward.                     │
-│                                             │
-└─────────────────────────────────────────────┘
-</pre>
+### > now
+
+```text
+[ ● ] Studying Computer Science
+[ ● ] Exploring AI Agents
+[ ● ] Building my Hexo blog
+[ ● ] Preparing for 408
+[ ● ] Keeping up with running
+```
 
 </td>
+<td width="42%" align="center" valign="middle">
 
-<td width="37%" align="center" valign="top">
-
-<img src="./212.jpg" width="250">
+<img src="./212.jpg" width="260" alt="EndlessLiu Anime Artwork">
 
 <br><br>
 
-## `ENDLESS`
+**ENDLESS MODE**
 
-<pre>
-CODE
-  ↓
-LEARN
-  ↓
-BUILD
-  ↓
-EXPLORE
-</pre>
-
-<br>
-
-`🌌 Code · Life · Anime`
-
-<br><br>
-
-> Building things I like.  
-> Learning things I need.  
-> Exploring things I love.
+Learn → Build → Run → Repeat
 
 </td>
-
 </tr>
 </table>
 
 ---
 
-## `// GITHUB ANALYTICS`
+## 02 / TECH STACK
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,nodejs,git,github,vscode,linux&perline=5" alt="Main Tech Stack">
+</p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=markdown,hexo,docker,vercel&perline=4" alt="Tools">
+</p>
+
+---
+
+## 03 / GITHUB ANALYTICS
 
 <table>
 <tr>
-
 <td width="50%" valign="top">
 
 ### 📊 Statistics
 
-<img src="./profile/stats.svg" width="100%">
+<img src="./profile/stats.svg" width="100%" alt="GitHub Stats">
 
 </td>
-
 <td width="50%" valign="top">
 
 ### 💻 Languages
 
-<img src="./profile/top-langs.svg" width="100%">
+<img src="./profile/top-langs.svg" width="100%" alt="Top Languages">
 
 </td>
-
 </tr>
 </table>
 
 ---
 
-## `// CONTRIBUTION ACTIVITY`
+## 04 / CONTRIBUTION SNAKE
 
 <p align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./profile/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./profile/github-snake.svg">
-  <img alt="GitHub Contribution Snake" src="./profile/github-snake.svg" width="100%">
+  <img src="./profile/github-snake-dark.svg" alt="GitHub Contribution Snake" width="100%">
 </picture>
 
 </p>
 
 ---
 
-## `// ACHIEVEMENTS`
-
-<p align="center">
-
-<img src="./profile/trophy.svg" width="100%">
-
-</p>
-
----
-
-## `// TECH MATRIX`
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,nodejs,git,github,vscode,linux&perline=5">
-
-</p>
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=markdown,hexo,vercel,docker&perline=4">
-
-</p>
-
----
-
-## `// CURRENT MISSIONS`
+## 05 / CURRENT MISSIONS
 
 <table>
 <tr>
-
 <td width="33%" align="center">
 
-### 💻 COMPUTER SCIENCE
+### 💻 CS
 
-`408`
+**408**
 
-Postgraduate Exam
+Computer Science  
+Keep improving fundamentals.
 
 </td>
-
 <td width="33%" align="center">
 
 ### 🤖 AI
 
-`AGENT`
+**AGENT**
 
-AI & New Technology
+AI & New Tech  
+Explore how agents are built.
 
 </td>
-
 <td width="33%" align="center">
 
 ### 🌐 WEB
 
-`BUILD`
+**BUILD**
 
-Improve My Blog
+Personal Blog  
+Turn ideas into interfaces.
 
 </td>
-
 </tr>
 </table>
 
 ---
 
-## `// ANIME ARCHIVE`
+## 06 / FEATURED PROJECTS
 
 <table>
 <tr>
+<td width="50%" valign="top">
 
-<td width="50%" align="center">
+### 🌐 EndlessLiu Blog
 
-<img src="./216.jpg" width="280">
+Personal blog built with **Hexo + GitHub Pages**, focused on code, life, anime, and experiments.
+
+<a href="https://endlessliu.github.io/">
+<img src="https://img.shields.io/badge/LIVE%20SITE-2563EB?style=for-the-badge&labelColor=0B1220" alt="Live Site">
+</a>
 
 </td>
 
-<td width="50%" align="center">
+<td width="50%" valign="top">
 
-<img src="./222.jpg" width="280">
+### 🧩 Blog Source
+
+The source repository behind the site, where the theme, components, articles, and experiments live.
+
+<a href="https://github.com/EndlessLiu/EndlessLiu.github.io">
+<img src="https://img.shields.io/badge/SOURCE-CODE-111827?style=for-the-badge&logo=github&logoColor=white" alt="Source Code">
+</a>
 
 </td>
-
 </tr>
 </table>
 
 ---
 
-## `// DAILY LOG`
+## 07 / ANIME ARCHIVE
 
-<pre>
-[ 01 ] Learn something new
-[ 02 ] Build something interesting
-[ 03 ] Run a little farther
-[ 04 ] Keep moving forward
-</pre>
+<p align="center">
+<img src="./216.jpg" width="42%" alt="Anime Artwork 1">
+&nbsp;&nbsp;
+<img src="./222.jpg" width="42%" alt="Anime Artwork 2">
+</p>
+
+---
+
+## 08 / DAILY LOG
+
+<p align="center">
+
+| | |
+|---|---|
+| 💻 | Learn something new |
+| 🛠️ | Build something interesting |
+| 🏃 | Run a little farther |
+| 🌌 | Keep exploring |
+
+</p>
 
 ---
 
 <div align="center">
 
-## `ENDLESSLIU.EXE`
+## ENDLESSLIU.EXE
 
-<pre>
-STATUS : ONLINE
-MODE   : LEARNING
-MISSION: KEEP BUILDING
-</pre>
+```text
+STATUS  : ONLINE
+MODE    : LEARNING
+MISSION : KEEP BUILDING
+```
 
 ### ✨ Keep Building · Keep Learning · Keep Moving
 
+Code · Life · Anime · Running
+
 <br>
 
-`Code` · `Life` · `Anime` · `Running`
+<img src="https://komarev.com/ghpvc/?username=EndlessLiu&style=flat-square&color=2563EB&label=VISITORS" alt="Visitors">
 
 </div>
