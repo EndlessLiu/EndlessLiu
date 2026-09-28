@@ -1,71 +1,64 @@
 <div align="center">
 
-<img src="./github-banner.png" width="100%" alt="EndlessLiu GitHub Banner">
+<img src="./profile/cyber-dashboard.svg" width="100%" alt="EndlessLiu Cyber Profile Dashboard">
 
 <br>
 
-# 👋 Hi, I'm **EndlessLiu**
-
-### Code · Life · Anime · Running
-
-A Computer Science student who enjoys building things, exploring AI, and keeping life moving.
-
-<br>
-
-<a href="https://endlessliu.github.io/">
-  <img src="https://img.shields.io/badge/🌐%20PERSONAL%20BLOG-2563EB?style=for-the-badge&labelColor=0B1220" alt="Personal Blog">
-</a>
-<a href="https://github.com/EndlessLiu">
-  <img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-<a href="https://github.com/EndlessLiu/EndlessLiu.github.io">
-  <img src="https://img.shields.io/badge/BLOG%20SOURCE-0F172A?style=for-the-badge&logo=hexo&logoColor=white" alt="Blog Source">
-</a>
+<a href="https://endlessliu.github.io/"><img src="https://img.shields.io/badge/MY%20BLOG-0B1220?style=for-the-badge&logo=hexo&logoColor=67E8F9&labelColor=06101E" alt="Blog"></a>
+<a href="https://github.com/EndlessLiu"><img src="https://img.shields.io/badge/GITHUB-0B1220?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=06101E" alt="GitHub"></a>
+<a href="https://github.com/EndlessLiu/EndlessLiu.github.io"><img src="https://img.shields.io/badge/BLOG%20SOURCE-0B1220?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=06101E" alt="Blog Source"></a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=EndlessLiu&style=for-the-badge&color=2563EB&labelColor=0B1220&label=PROFILE+VIEWS" alt="Profile Views">
+<img src="https://komarev.com/ghpvc/?username=EndlessLiu&style=for-the-badge&color=22D3EE&labelColor=06101E&label=PROFILE+VIEWS" alt="Profile Views">
 
 </div>
 
 ---
 
-## 01 / ABOUT
-
 <table>
 <tr>
 <td width="58%" valign="top">
 
-### > whoami
+## <code>01 // SYSTEM PROFILE</code>
 
-```text
-NAME      : EndlessLiu
-ROLE      : Computer Science Student
-INTEREST  : AI · Web · Open Source
-VIBE      : Anime × Technology
-MINDSET   : Learn → Build → Iterate
-```
-
-### > now
-
-```text
-[ ● ] Studying Computer Science
-[ ● ] Exploring AI Agents
-[ ● ] Building my Hexo blog
-[ ● ] Preparing for 408
-[ ● ] Keeping up with running
-```
+<pre>
+┌──────────────────────────────────────────────┐
+│ EndlessLiu@github                            │
+├──────────────────────────────────────────────┤
+│                                              │
+│ $ whoami                                     │
+│ > Computer Science Student                   │
+│                                              │
+│ $ current_focus                              │
+│ > AI Agent                                   │
+│ > Web Development                            │
+│ > 408 Postgraduate Exam                      │
+│                                              │
+│ $ mindset                                    │
+│ > LEARN → BUILD → ITERATE                    │
+│                                              │
+│ $ status                                     │
+│ > [ ONLINE ]                                 │
+│                                              │
+└──────────────────────────────────────────────┘
+</pre>
 
 </td>
+
 <td width="42%" align="center" valign="middle">
 
-<img src="./212.jpg" width="260" alt="EndlessLiu Anime Artwork">
+<img src="./212.jpg" width="270" alt="EndlessLiu Anime Profile">
 
 <br><br>
 
-**ENDLESS MODE**
+### <code>ENDLESS MODE</code>
 
-Learn → Build → Run → Repeat
+<code>CODE</code> → <code>LEARN</code> → <code>BUILD</code> → <code>RUN</code>
+
+<br><br>
+
+<em>Building things I like.<br>Learning things I need.<br>Exploring things I love.</em>
 
 </td>
 </tr>
@@ -73,10 +66,38 @@ Learn → Build → Run → Repeat
 
 ---
 
-## 02 / TECH STACK
+## <code>02 // GITHUB ANALYTICS</code>
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,nodejs,git,github,vscode,linux&perline=5" alt="Main Tech Stack">
+<img src="./profile/stats.svg" width="100%" alt="GitHub Statistics">
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<p align="center">
+<img src="./profile/top-langs.svg" width="100%" alt="Top Languages">
+</p>
+
+</td>
+</tr>
+</table>
+
+---
+
+## <code>03 // TROPHY & SKILLS</code>
+
+<p align="center">
+<img src="./profile/trophy.svg" width="100%" alt="GitHub Trophy">
+</p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,nodejs,git,github,vscode,linux&perline=5" alt="Tech Stack">
 </p>
 
 <p align="center">
@@ -85,75 +106,55 @@ Learn → Build → Run → Repeat
 
 ---
 
-## 03 / GITHUB ANALYTICS
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 📊 Statistics
-
-<img src="./profile/stats.svg" width="100%" alt="GitHub Stats">
-
-</td>
-<td width="50%" valign="top">
-
-### 💻 Languages
-
-<img src="./profile/top-langs.svg" width="100%" alt="Top Languages">
-
-</td>
-</tr>
-</table>
-
----
-
-## 04 / CONTRIBUTION SNAKE
+## <code>04 // CONTRIBUTION MATRIX</code>
 
 <p align="center">
+<img src="./profile/github-snake-dark.svg" width="100%" alt="GitHub Contribution Snake">
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./profile/github-snake.svg">
-  <img src="./profile/github-snake-dark.svg" alt="GitHub Contribution Snake" width="100%">
-</picture>
-
+<p align="center">
+<sub>CONTRIBUTION ACTIVITY · GENERATED AUTOMATICALLY</sub>
 </p>
 
 ---
 
-## 05 / CURRENT MISSIONS
+## <code>05 // CURRENT MISSIONS</code>
 
 <table>
 <tr>
 <td width="33%" align="center">
 
-### 💻 CS
+### <code>CS / 408</code>
 
-**408**
+Computer Science fundamentals
 
-Computer Science  
-Keep improving fundamentals.
+<br><br>
 
-</td>
-<td width="33%" align="center">
-
-### 🤖 AI
-
-**AGENT**
-
-AI & New Tech  
-Explore how agents are built.
+<code>STUDYING</code>
 
 </td>
+
 <td width="33%" align="center">
 
-### 🌐 WEB
+### <code>AI / AGENT</code>
 
-**BUILD**
+Exploring AI agents and new tools
 
-Personal Blog  
-Turn ideas into interfaces.
+<br><br>
+
+<code>EXPLORING</code>
+
+</td>
+
+<td width="33%" align="center">
+
+### <code>WEB / BUILD</code>
+
+Improving my personal blog
+
+<br><br>
+
+<code>BUILDING</code>
 
 </td>
 </tr>
@@ -161,7 +162,7 @@ Turn ideas into interfaces.
 
 ---
 
-## 06 / FEATURED PROJECTS
+## <code>06 // FEATURED PROJECTS</code>
 
 <table>
 <tr>
@@ -169,22 +170,28 @@ Turn ideas into interfaces.
 
 ### 🌐 EndlessLiu Blog
 
-Personal blog built with **Hexo + GitHub Pages**, focused on code, life, anime, and experiments.
+A personal space built with Hexo + GitHub Pages.
+
+<code>Code · Life · Anime · Running</code>
+
+<br><br>
 
 <a href="https://endlessliu.github.io/">
-<img src="https://img.shields.io/badge/LIVE%20SITE-2563EB?style=for-the-badge&labelColor=0B1220" alt="Live Site">
+<img src="https://img.shields.io/badge/OPEN%20BLOG-22D3EE?style=for-the-badge&labelColor=06101E" alt="Open Blog">
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🧩 Blog Source
+### ⚡ Blog Source
 
-The source repository behind the site, where the theme, components, articles, and experiments live.
+The source code behind the blog, including theme customization, components and experiments.
+
+<br><br>
 
 <a href="https://github.com/EndlessLiu/EndlessLiu.github.io">
-<img src="https://img.shields.io/badge/SOURCE-CODE-111827?style=for-the-badge&logo=github&logoColor=white" alt="Source Code">
+<img src="https://img.shields.io/badge/VIEW%20SOURCE-38BDF8?style=for-the-badge&labelColor=06101E&logo=github&logoColor=white" alt="View Source">
 </a>
 
 </td>
@@ -193,47 +200,43 @@ The source repository behind the site, where the theme, components, articles, an
 
 ---
 
-## 07 / ANIME ARCHIVE
+## <code>07 // ANIME ARCHIVE</code>
 
 <p align="center">
-<img src="./216.jpg" width="42%" alt="Anime Artwork 1">
+<img src="./216.jpg" width="43%" alt="Anime Archive 01">
 &nbsp;&nbsp;
-<img src="./222.jpg" width="42%" alt="Anime Artwork 2">
+<img src="./222.jpg" width="43%" alt="Anime Archive 02">
 </p>
 
 ---
 
-## 08 / DAILY LOG
+## <code>08 // DAILY LOOP</code>
 
-<p align="center">
-
-| | |
-|---|---|
-| 💻 | Learn something new |
-| 🛠️ | Build something interesting |
-| 🏃 | Run a little farther |
-| 🌌 | Keep exploring |
-
-</p>
+<table>
+<tr>
+<td align="center">💻<br><strong>LEARN</strong><br><sub>Something new</sub></td>
+<td align="center">🛠️<br><strong>BUILD</strong><br><sub>Something useful</sub></td>
+<td align="center">🏃<br><strong>RUN</strong><br><sub>A little farther</sub></td>
+<td align="center">🌌<br><strong>EXPLORE</strong><br><sub>Something unknown</sub></td>
+</tr>
+</table>
 
 ---
 
 <div align="center">
 
-## ENDLESSLIU.EXE
+## <code>ENDLESSLIU.EXE</code>
 
-```text
+<pre>
 STATUS  : ONLINE
 MODE    : LEARNING
 MISSION : KEEP BUILDING
-```
+</pre>
 
-### ✨ Keep Building · Keep Learning · Keep Moving
+<strong>✨ Keep Building · Keep Learning · Keep Moving</strong>
 
-Code · Life · Anime · Running
+<br><br>
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=EndlessLiu&style=flat-square&color=2563EB&label=VISITORS" alt="Visitors">
+<sub>Code · Life · Anime · Running</sub>
 
 </div>
