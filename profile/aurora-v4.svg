@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440" height="680" viewBox="0 0 1440 680" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1440" y2="680" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#02040A"/><stop offset=".42" stop-color="#07101D"/><stop offset=".72" stop-color="#0C0A1B"/><stop offset="1" stop-color="#120612"/>
+  </linearGradient>
+  <linearGradient id="aurora" x1="140" y1="110" x2="1220" y2="590" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#22D3EE"/><stop offset=".38" stop-color="#60A5FA"/><stop offset=".7" stop-color="#818CF8"/><stop offset="1" stop-color="#E879F9"/>
+  </linearGradient>
+  <linearGradient id="bar" x1="0" y1="0" x2="850" y2="0" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#22D3EE" stop-opacity="0"/><stop offset=".25" stop-color="#22D3EE"/><stop offset=".62" stop-color="#818CF8"/><stop offset="1" stop-color="#E879F9" stop-opacity="0"/>
+  </linearGradient>
+  <radialGradient id="cyan"><stop stop-color="#22D3EE" stop-opacity=".23"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/></radialGradient>
+  <radialGradient id="pink"><stop stop-color="#E879F9" stop-opacity=".18"/><stop offset="1" stop-color="#E879F9" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+    <path d="M34 0H0V34" stroke="#93C5FD" stroke-opacity=".05"/>
+  </pattern>
+  <pattern id="dots" width="9" height="9" patternUnits="userSpaceOnUse">
+    <circle cx="1.5" cy="1.5" r=".65" fill="#C4B5FD" fill-opacity=".15"/>
+  </pattern>
+  <filter id="glow" x="-150%" y="-150%" width="400%" height="400%">
+    <feGaussianBlur stdDeviation="6" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <filter id="soft" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="30"/></filter>
+  <clipPath id="a1"><rect x="1050" y="115" width="280" height="350" rx="28"/></clipPath>
+  <clipPath id="a2"><rect x="930" y="365" width="220" height="190" rx="24"/></clipPath>
+  <clipPath id="a3"><rect x="1165" y="420" width="195" height="160" rx="24"/></clipPath>
+  <style>
+    .pulse{animation:pulse 2.2s ease-in-out infinite}
+    .float1{animation:float 6s ease-in-out infinite}
+    .float2{animation:float 7s ease-in-out -2s infinite}
+    .spin{animation:spin 20s linear infinite;transform-origin:1190px 300px}
+    .scan{animation:scan 4.8s ease-in-out infinite}
+    @keyframes pulse{0%,100%{opacity:.35}50%{opacity:1}}
+    @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-9px)}}
+    @keyframes spin{to{transform:rotate(360deg)}}
+    @keyframes scan{0%{transform:translateX(-300px);opacity:0}20%{opacity:.9}75%{opacity:.9}100%{transform:translateX(1600px);opacity:0}}
+  </style>
+</defs>
+
+<rect width="1440" height="680" rx="36" fill="url(#bg)"/>
+<ellipse cx="300" cy="250" rx="360" ry="300" fill="url(#cyan)" filter="url(#soft)"/>
+<ellipse cx="1190" cy="340" rx="360" ry="320" fill="url(#pink)" filter="url(#soft)"/>
+<rect width="1440" height="680" rx="36" fill="url(#grid)"/>
+<rect width="1440" height="680" rx="36" fill="url(#dots)" opacity=".55"/>
+<rect x="3" y="3" width="1434" height="674" rx="33" stroke="url(#aurora)" stroke-width="3"/>
+
+<!-- top bar -->
+<rect x="40" y="38" width="300" height="34" rx="10" fill="#06101C" stroke="#155E75"/>
+<circle cx="60" cy="55" r="5" fill="#34D399" class="pulse" filter="url(#glow)"/>
+<text x="77" y="60" font-family="monospace" font-size="12" letter-spacing="1.5" fill="#A7F3D0">ENDLESSLIU / LIVE SYSTEM</text>
+
+<rect x="1050" y="38" width="350" height="34" rx="10" fill="#070C18" stroke="#4338CA"/>
+<text x="1070" y="60" font-family="monospace" font-size="11" letter-spacing="1.4" fill="#C4B5FD">PERSONAL BRAND / DIGITAL SPACE</text>
+
+<!-- huge identity -->
+<text x="72" y="166" font-family="monospace" font-size="13" letter-spacing="4.3" fill="#67E8F9">THIS IS NOT A RESUME.</text>
+<text x="65" y="270" font-family="sans-serif" font-size="112" font-weight="900" fill="#F8FAFC" letter-spacing="-5">Endless</text>
+<text x="69" y="358" font-family="sans-serif" font-size="112" font-weight="900" fill="url(#aurora)" letter-spacing="-5">Liu.</text>
+<text x="74" y="405" font-family="monospace" font-size="16" fill="#94A3B8">computer science · ai agents · web experiments · running</text>
+
+<rect x="75" y="438" width="774" height="2" fill="#11283B"/>
+<rect x="75" y="438" width="260" height="2" fill="url(#bar)" filter="url(#glow)"/>
+<text x="75" y="474" font-family="monospace" font-size="11" letter-spacing="2" fill="#64748B">BUILDING IN PUBLIC</text>
+<text x="75" y="505" font-family="sans-serif" font-size="22" font-weight="600" fill="#E2E8F0">I make things I would actually want to keep.</text>
+
+<!-- pill row -->
+<g class="float1">
+<rect x="75" y="545" width="155" height="48" rx="14" fill="#07131F" stroke="#155E75"/>
+<text x="98" y="575" font-family="monospace" font-size="12" fill="#A5F3FC">01 / STUDY</text>
+</g>
+<g class="float2">
+<rect x="244" y="545" width="170" height="48" rx="14" fill="#08132A" stroke="#1D4ED8"/>
+<text x="267" y="575" font-family="monospace" font-size="12" fill="#BFDBFE">02 / EXPLORE</text>
+</g>
+<g class="float1" style="animation-delay:-3s">
+<rect x="428" y="545" width="170" height="48" rx="14" fill="#110C24" stroke="#6D28D9"/>
+<text x="453" y="575" font-family="monospace" font-size="12" fill="#DDD6FE">03 / SHIP</text>
+</g>
+<g class="float2">
+<rect x="612" y="545" width="190" height="48" rx="14" fill="#170B18" stroke="#A21CAF"/>
+<text x="635" y="575" font-family="monospace" font-size="12" fill="#F5D0FE">04 / REPEAT</text>
+</g>
+
+<!-- visual stack -->
+<rect x="903" y="92" width="457" height="512" rx="32" fill="#030713" fill-opacity=".72" stroke="#334155" stroke-width="2"/>
+<rect x="922" y="112" width="418" height="54" rx="14" fill="#06111F" stroke="#164E63"/>
+<text x="948" y="145" font-family="monospace" font-size="11" letter-spacing="1.8" fill="#67E8F9">VISUAL NODE / 001</text>
+<text x="1203" y="145" font-family="monospace" font-size="10" fill="#475569">01:07:24</text>
+
+<g class="spin">
+  <circle cx="1190" cy="300" r="174" stroke="#22D3EE" stroke-opacity=".15" stroke-width="1"/>
+  <circle cx="1190" cy="300" r="158" stroke="#818CF8" stroke-opacity=".16" stroke-width="2" stroke-dasharray="3 12"/>
+  <path d="M1190 124A176 176 0 0 1 1350 226" stroke="#67E8F9" stroke-width="2"/>
+  <path d="M1030 383A176 176 0 0 1 1014 251" stroke="#C084FC" stroke-width="2"/>
+</g>
+
+<rect x="1050" y="115" width="280" height="350" rx="28" fill="#07111E" stroke="#60A5FA" stroke-opacity=".7" stroke-width="2"/>
+<image href="https://raw.githubusercontent.com/EndlessLiu/EndlessLiu/main/212.jpg" x="1050" y="115" width="280" height="350" preserveAspectRatio="xMidYMid slice" clip-path="url(#a1)"/>
+<rect x="1050" y="115" width="280" height="350" rx="28" fill="url(#cyan)" opacity=".10"/>
+<rect x="1068" y="134" width="98" height="28" rx="8" fill="#020711" fill-opacity=".72" stroke="#164E63"/>
+<text x="1084" y="153" font-family="monospace" font-size="10" fill="#A5F3FC">OWNER</text>
+<rect x="1200" y="431" width="108" height="27" rx="8" fill="#020711" fill-opacity=".72" stroke="#3730A3"/>
+<circle cx="1215" cy="444.5" r="4" fill="#34D399" filter="url(#glow)"/>
+<text x="1227" y="449" font-family="monospace" font-size="9" fill="#D1FAE5">ACTIVE</text>
+
+<rect x="930" y="382" width="214" height="172" rx="24" fill="#050A14" stroke="#22D3EE" stroke-opacity=".55" stroke-width="2"/>
+<image href="https://raw.githubusercontent.com/EndlessLiu/EndlessLiu/main/216.jpg" x="930" y="382" width="214" height="172" preserveAspectRatio="xMidYMid slice" clip-path="url(#a2)"/>
+<rect x="945" y="397" width="98" height="27" rx="8" fill="#020711" fill-opacity=".72"/>
+<text x="961" y="416" font-family="monospace" font-size="9" fill="#A5F3FC">ARCHIVE 01</text>
+
+<rect x="1165" y="438" width="195" height="160" rx="24" fill="#050A14" stroke="#C084FC" stroke-opacity=".55" stroke-width="2"/>
+<image href="https://raw.githubusercontent.com/EndlessLiu/EndlessLiu/main/222.jpg" x="1165" y="438" width="195" height="160" preserveAspectRatio="xMidYMid slice" clip-path="url(#a3)"/>
+<rect x="1180" y="453" width="95" height="27" rx="8" fill="#020711" fill-opacity=".72"/>
+<text x="1195" y="472" font-family="monospace" font-size="9" fill="#E9D5FF">ARCHIVE 02</text>
+
+<rect x="-250" y="82" width="250" height="2" fill="url(#bar)" class="scan" filter="url(#glow)"/>
+
+<text x="42" y="650" font-family="monospace" font-size="10" letter-spacing="1.8" fill="#334155">DARK / NEON / GLASS / MOTION / ANIME / PERSONAL COMPUTING</text>
+<text x="1320" y="650" font-family="monospace" font-size="10" fill="#334155">v4.0</text>
+</svg>
